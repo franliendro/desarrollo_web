@@ -1,0 +1,16 @@
+tono saturacion luminosidad
+se usa la funcion hsl()
+el primer ess hue circulo cromatico
+0 -> red
+60 grados -> yellow
+120 -> verde
+180 -> cyan
+240 -> blue
+300 -> magenta
+el segundo es sasturation osea intensidad del color
+0% escala de grises
+100% color puro
+El tercer valor es lightness luminosidad
+0% negro
+100% blanco
+hlsa un cuarto argumento de opacidad del 0 al 1

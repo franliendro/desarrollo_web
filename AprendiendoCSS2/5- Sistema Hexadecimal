@@ -1,0 +1,9 @@
+Se llama hexadecimal porque esta basado en 16 digitos 0123456789ABCDEF
+RGB(Medios digitales) VS CMYK(Impresiones)
+En el hexadecimal tenemos 2 digitos por cada color (rgb)
+red green blue
+ff   66    05
+f    6     7
+Hace tiempo se implemento la opacidad en los colores de css
+Este canal de opacidad seria como una cuarta pareja de valores Por ej ff 66 05 99
+tambien sirve en la simplificacion f 6 7 4

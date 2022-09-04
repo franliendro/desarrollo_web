@@ -1,0 +1,16 @@
+/*tablas 
+tr
+th
+th
+th
+/td
+table,
+th,
+td{
+  border:;
+  border-collapse:separate; default se separan los bordes
+  border-collapse: collapse; se juntan los bordes
+  border-spacing:1rem ; espacio entre los bordes
+  empty-cells:hide; se oculta la celda que no tiene contenido
+}
+todo esto para poder ponerle bordes como si fuera un tablero de ajedrez, si solo se le hace al table solo quedara bordeado como si fuera un cuadrado*/

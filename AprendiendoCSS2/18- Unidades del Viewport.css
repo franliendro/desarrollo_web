@@ -1,0 +1,6 @@
+/*vh es la altura del viewport
+vw es el ancho del viewport
+va del 1 al 100
+si se le va a dar un 100vw a una imagen o algo hay que tener en cuenta que el body tiene un margin de 8px y que tambien toma en cuenta el ancho de la barra scroll, es mas recomendable usar el 100% 
+vmax y vmin
+50vmax tomara el 50% del lado del viewport mas grande y lo mismo con el vmin con la parte mas chica

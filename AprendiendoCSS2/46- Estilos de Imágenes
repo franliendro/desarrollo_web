@@ -1,0 +1,10 @@
+/*una imagen que se adapte al dispositivo
+max-width:100%;
+height:auto;
+object-fit:fill; default
+object-fit:cover; para que no se deforme
+object-position:right top etc  se activa al usar object-fit y sirve para ubicar mejor la imagen      se parece a background position
+object-fit:contain; para que no se deforme y se muestre toda la imagen, no solo una parte de la imagen como lo haria object cover
+object-fit:none;
+object-position:scale-down; toma el valor que sea menor de los valores contain y none
+*/

@@ -1,0 +1,7 @@
+Las unidades de medidas que se usan son
+1 absolutas que vendrian a ser las medidass del mundo real, cm, mm, Q, etc
+2 relativas que son relativos a un contexto
+em rem ex ch
+%
+vw vh vmin vmax
+Pagina para hacer conversiones entre unidades pxtoem.com

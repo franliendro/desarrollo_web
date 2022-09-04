@@ -1,0 +1,10 @@
+text align sirve para ubicarlo e su caja contendera
+text-decoration(
+  ()
+text align
+text overflow requiere que pongamos overflow hidden y white-space nowrap
+letter-spacing para determinar de cuanto va a ser el espacio entre cada letra
+white-space que hacer con los espacios en blanco
+word-spacing lo mismo pero con las palabras
+word-break sirve para romper las palabras para encajar las palabras en el espacio disponible
+writing-mode vertical para que se escriba en vertical

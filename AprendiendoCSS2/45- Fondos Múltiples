@@ -1,0 +1,6 @@
+fondos multiples sirve para usar diferentes imagenes de fondo, es posible llamando asi
+background-image: url(),url();
+y despues las propiedades que usaremos para modificarlas tendran que ser en ese orden, por ej
+background-repeat:repeat,no-repeat;
+otra forma de ponerle propiedades es poniendolo a su derecha
+background: url()repeat-x, url()propiedad;

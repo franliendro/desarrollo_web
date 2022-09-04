@@ -1,0 +1,5 @@
+las medidas absolutas son mejor usarlas cuando se tratan cosas de impresion
+las medidas relativas sobre todo em y rem cuando se trate de tipografia
+ch para hacer botones o cosas asi que sepamos cuantos caracteres pueden llegar a ocupar
+% es como para que haya mejor flujo, sirve mucho en el responsive
+las medidas del viewport casi lo mismo que el %

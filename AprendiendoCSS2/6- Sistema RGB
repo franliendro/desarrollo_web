@@ -1,0 +1,7 @@
+Tiene mucha relacion con la rgb
+Va de 0 a 255
+para usarlo tenemos que usar una funcion llamada rgb()
+Acepta 8 bit por canal
+Bit 0/1
+la base de binario es 2, 2 elevado a la 8 es 256
+el cuarto parametro tambien seria de opacidad va de 0 a 1, se usan decimales pero con la funcion rgba

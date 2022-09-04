@@ -1,0 +1,5 @@
+/*para poner texto en columnas
+column-count:4; en cuantas columnas estara distribuido el texto
+column-gap:20px; espacio entre columnas
+column-rule:medium dotted red;  el borde de las columnas
+column-width:10px; tamaño minimo de anchura de las columnas*/

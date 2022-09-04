@@ -1,0 +1,3 @@
+border radius puede redondear, se puede redondear cada esquina con valores distintos
+bordes elipticos dividiendo, el miembro izq seria el radio x y del der el radio y
+hacer un circulo: border radius 50% pero tiene que tener dimensiones de un cuadrado

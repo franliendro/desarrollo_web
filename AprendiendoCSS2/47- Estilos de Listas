@@ -1,0 +1,15 @@
+/*estilos que permiten modificar las listas, como en el caso de las listas ordenadas que podemos modificar con que se ordena, por ej con incisos en numeros romanos, con circulos, etc
+eso se haria con list-style-type
+list-style-image:;
+aca un ejemplo muy bueno que usa jon es que pone un favicon antes de cada elemento de una lista
+ol li::before{
+  content:"";             que el contenido este vacio
+  width: 1rem;          ancho de 1 rem osea de una letra
+  height: 1rem;           altura de una letra     
+  background-image: url();    llamando a la imagen
+  background-size: contain;   como la imagen es muy grande se usa contain para que se muestre
+  background-repeat:no-repeat;
+  background-position:center;
+}
+list-style-position:; esto hace que el inciso quede dentro del elemento de la lista en vez de fuera
+*/

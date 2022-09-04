@@ -1,0 +1,5 @@
+custom properties (variables css)
+una variable en css empieza con dos guiones 
+y luego para llamarla tenemos que usar la funciones var(--name)
+pero la funcion recibe dos parametros, el segundo es por si no se encuentra la primera variable
+pseudoclase :root, es como la etiqueta html pero tiene mas especificidad podemos crear las variables en esa pseudoclase para que se pueda usar donde sea la variable declarada

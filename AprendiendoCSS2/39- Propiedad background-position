@@ -1,0 +1,4 @@
+/*cuanto se mueve con respecto a su eje, por ejemplo 10 px 20px se va a alejar 10px del x y 20 px del y
+se puede decir top center para que la ubique arriba al centro
+top right arriba a la derecha
+top left arriba izquierda */

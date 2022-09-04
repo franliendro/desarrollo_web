@@ -1,0 +1,14 @@
+/*
+@font-face{
+  font-family:'nombre';
+  src: url()format('woff')
+}
+Sirve para importar fuentes localmente
+font-display
+viene a ser una propiedad para indicarle al texto como va a cargar antes que la fuente personalizada este lista para ser mostrada
+auto block
+block oculta el texto hasta que cargue la fuente
+swap usa la fuente alternativa hasta que cargue la fuente personalizada
+fallback primero oculta, luego de unos segundos muestra la fuente alternativa y luego recien la personalizada
+optional lo mismo que fallback pero que dura un tiempo mas entre cada transicion
+*/

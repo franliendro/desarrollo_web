@@ -1,0 +1,4 @@
+Esta basadi en el ancho de la m de la fuente
+La fuente generalmente es de 16px
+osea 16px=1em
+ y si ponemos por ej font-size:22px los em se van a basar en 22px en todos los elementos hijos del elemento padre que tomo 22px de fuente

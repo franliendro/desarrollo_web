@@ -1,0 +1,6 @@
+3 librerias que nos dan iconos, estan basados en tipografia
+libreria de google fonts que te permite cargar iconos a traves de etiquetas span, sirve mucho para poner iconos para botones, tarjetas, etc
+bootstrap tambien
+font awesome
+cdnjs.com
+El CDN viene a ser librerias que se encuentran en linea para no tener que descargar recursos

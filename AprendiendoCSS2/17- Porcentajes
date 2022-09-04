@@ -1,0 +1,1 @@
+se usa con el signo de %, es relacional con el viewport o con la unidad del elemento que estemos modificando como lo seria un font-size, no se puede usar altura con porcentaje con respecto al viewport porque no tiene un size definido, en cambio si fuera a un elemento hijo escribiendole su altura con respecto a su contenedor padre si se podria
