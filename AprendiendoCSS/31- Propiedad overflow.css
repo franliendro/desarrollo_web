@@ -1,0 +1,2 @@
+/* La propiedad overflow sirve que para cuando el contenido de una caja se este desbordando por los costados, overflow maneja como se va a visualizar eso.
+con overflow hidden no se mostrara el contenido que desborda con scroll-x se va a poner una barrita para desplazar por el eje x y lo mismo con scroll-y, en auto se va a poner segun corresponda */

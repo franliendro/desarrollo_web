@@ -1,0 +1,1 @@
+/* Vendria a tratarse como las capas del photoshop, que una esta por encima de la otra, mientras el valor del z-index sea mas alto, mas alto estara sobre las demas capas. En el caso hipotetico de querer hacer que los elementos de un padre esten por debajo del padre hay que ponerle un z-index negativo a los hijos y al padre no ponerle nada */

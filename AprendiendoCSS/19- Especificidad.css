@@ -1,0 +1,1 @@
+/* La especificidad viene a ser la importancia que le da el html a nuestros estilos, primero es a los selectores de etiquetas y pseudoelementos, luego a las clases, atributos y pseudoclases, luego a los id, luego a los estilos en linea y al final a los que tengan !important al final del atributo de estilo*/

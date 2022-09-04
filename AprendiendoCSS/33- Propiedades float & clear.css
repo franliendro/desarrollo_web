@@ -1,0 +1,1 @@
+/* El float hace que los elementos que reciban esa propiedad floten por encima del contenido html y que floten ya sea a la izquierda o a la derecha, actualmente se consideran una mala practica. Tambien se encuentra el clear que tambien se pueden poner valores left right y both y clear sirve para arreglar la manera en la que se ubican las etiquetas por el uso de float */

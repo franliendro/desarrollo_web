@@ -1,0 +1,14 @@
+/* Las pseudoclases de estado vienen a ser como atributos de los selectores css que se encargan de darle estilos a eventos que suceden desde el html, por ejemplo cuando señalamos algo, cuando apretamos un link, cuando un link no fue visitado aun, cuando estamos ubicados en un id, etc. Algunos ejemplos:
+a:visited{
+  background-color=red;
+}
+li:hover{
+  color=blue;
+}
+input:focus{
+  font-text:24px;
+}
+#nav:target{
+  background-color=blue;
+}
+*/

@@ -1,0 +1,1 @@
+/* La diferencia entre estos dos tipos de modelo de caja son que las cajas de linea solo ocupan el espacio del contenido no tienen dimensiones modificables permiten elementos a su lado y el padding y margin solo empujan elementos adyacentes en horizontal nunca en vertical, en cambio las cajas de bloque ocupan toda la linea en la que se encuentran */

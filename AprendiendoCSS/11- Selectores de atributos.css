@@ -1,0 +1,28 @@
+/* Los selectores de atributos vienen a ser los selectores que nos permiten dar estilo a las etiquetas mediante sus atributos, por ejemplo:
+h2 class= 'subtitulo-de-articulo'
+h2 class= 'subtitulo-de-articulo'
+h2 class= 'subtitulo-de-articulo'
+h2 class= 'pie-de-articulo'
+
+h2[class]{
+  color-background=red;
+}
+h2[class='subtitulo']{
+  color=black;
+}
+h2[class*='articulo']{ que contengan la palabra articulo
+  font-size=24px;
+}
+h2[class^='articulo']{ que empiece con articulo
+  font-size=24px;
+}
+h2[class$='articulo']{ que termine con articulo
+  background-color=blue;
+}
+h2[class~='articulo']{ que contenga la palabra en la lista de clases/atributos
+  background-color=blue;
+}
+h2[class|='articulo']{ que despues de la palabra articulo tenga un guion
+  background-color=blue;
+}
+*/

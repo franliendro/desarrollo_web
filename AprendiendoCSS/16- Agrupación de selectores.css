@@ -1,0 +1,7 @@
+/* Agrupar selectores para poderle dar estilo a distintas etiquetas html,
+Podemos usar la , por ej
+h1,
+h2,
+main{
+  background:red;
+} */

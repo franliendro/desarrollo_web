@@ -1,0 +1,8 @@
+/* Los posicionamientos de los elementos css dependen de su naturaleza o segun le indiquemos si es una caja de bloque o una caja en linea. Tambien si es que le ponemos que sea un flotante pero como mencionamos es mejor no usar esta propiedad.
+Lo que vamos a ver ahora es la propiedad position que tenemos 5 valores
+static
+relative
+absolute
+sticky
+fixed
+El static es el que viene de predeterminado con las etiquetas, este valor respeta el flujo natural del html, en cambio los otros 4 valores no y podemos modificarle su posicionamiento tambien gracias a los atributos top left buttom left, y para quedar claro va a haber preferencia a los top y a los left sobre los otros dos */

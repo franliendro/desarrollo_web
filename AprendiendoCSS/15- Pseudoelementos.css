@@ -1,0 +1,8 @@
+/* Los pseudoelementos vendrian a ser elementos que se le añaden por decirlo de alguna manera a las etiquetas como para darle mas sentido al contenido, para usar un pseudoelemento como buena practica es recomendable que despues del selector se le ponga :: aunque los navegadores puedan entenderlo con tan solo un par de puntos
+Como ejemeplo tenemos a
+after se usaria para poner algo despues de la etiqueta, ya sea un emoji o algo
+before lo mismo pero con lo que va antes
+first-letter con la primera letra del contenido 
+first-line con la primera linea
+selection con lo que se este seleccionando
+*/

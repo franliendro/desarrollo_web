@@ -1,0 +1,8 @@
+/* Selectores avanzados: Hijos directos e indirectos
+Los hijos directos vienen a ser los que se encuentran justamente al lado de la etiqueta contenedora. Como lo seria el caso de:
+div
+   h1 Titulo /h1
+   p Lorem /p
+div
+Aca el hijo directo de div es el h1 y el p viene a ser el hijo indirecto de div. Las formas de darle estilo en css son diferentes, al tratarse de un hijo directo se usa el selector div>h1 y para el indirecto seria un espacio en blanco div p
+*/

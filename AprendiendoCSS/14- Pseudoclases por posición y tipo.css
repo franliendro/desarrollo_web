@@ -1,0 +1,9 @@
+/* En esta seccion lo que vamos a ver vendrian a ser las pseudoclases que podemos encontrar para darle estilo ya sea por posicion o por tipo:
+Vamos a comenzar por la posicion:
+Para el primer elemento de la caja contenedora podemos usar el first-child
+Para el ultimo elemento de la caja contenedora podemos usar el last-child
+Para el eneavo elemento de la caja contenedora podemos usar el nth-child()
+Si queremos hacer con el primer elemento de una caja contenedora pero que sea de un tipo en especifico de etiqueta podemos hacer 
+.cajaContenedora p:fist-of-type
+Tambien si queremos por ejemplo hacer que se le de estilo a muchas etiquetas pero a ciertas en particular no, podemos usar la pseudoclase not()
+ */
